@@ -1,1 +1,1 @@
-# devonfw-java-backend-training-new
+# Devonfw Java Backend Training
